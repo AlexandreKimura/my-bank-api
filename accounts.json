@@ -1,0 +1,60 @@
+{
+  "nextId": 14,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "alexandre kimura",
+      "balance": 3000
+    },
+    {
+      "id": 3,
+      "name": "A",
+      "balance": 3000
+    },
+    {
+      "id": 4,
+      "name": "A",
+      "balance": 3000
+    },
+    {
+      "id": 5,
+      "name": "A",
+      "balance": 3000
+    },
+    {
+      "id": 6,
+      "name": "Sexto numero",
+      "balance": 1000
+    },
+    {
+      "id": 7,
+      "name": "A",
+      "balance": 3000
+    },
+    {
+      "id": 9,
+      "name": "Alexandre Novo",
+      "balance": 1000
+    },
+    {
+      "id": 10,
+      "name": "Novo nome",
+      "balance": 2000
+    },
+    {
+      "id": 11,
+      "name": "Alexandre Novo",
+      "balance": 1000
+    },
+    {
+      "id": 12,
+      "name": "Teste",
+      "balance": 3000
+    },
+    {
+      "id": 13,
+      "name": "Teste",
+      "balance": 3000
+    }
+  ]
+}
